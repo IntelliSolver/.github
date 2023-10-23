@@ -18,11 +18,11 @@ IntelliSolver is a powerful extension that allows you to harness the capabilitie
 
 To get started with IntelliSolver, follow these simple steps:
 
-1. Install the IntelliSolver extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/intellisolver/bpciefmplcpnnbeneiofigbjncghmnhn?authuser=2).
+1. Register on [IntelliSolver.net](https://IntelliSolver.net/Register).
 
-2. Open your text document in Visual Studio Code.
+2. Install the IntelliSolver extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/intellisolver/bpciefmplcpnnbeneiofigbjncghmnhn).
 
-3. Select the text you want to summarize or formulate a question.
+3. Select the text you want to summarize or question you want answered.
 
 4. Click the IntelliSolver icon to initiate the AI-powered analysis.
 
